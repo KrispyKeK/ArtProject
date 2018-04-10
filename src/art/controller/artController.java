@@ -1,5 +1,9 @@
 package art.controller;
 
-public class artController {
-
+public class artController 
+{
+	public artController()
+	{
+		
+	}
 }
